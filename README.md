@@ -7,10 +7,12 @@ Right click when in game.
 
 click on 'inspect'.
 
-Click on console (this doesnt always switch to console first time, you may have to rety step 10).
+Click on console (this doesnt always switch to console first time, you may have to rety).
 
 Paste the code into console.
 
 Click 'enter' on your keyboard.
 
 Enjoy😁😀
+
+(Note: if this bans you from the website I take no resbonsibility)
