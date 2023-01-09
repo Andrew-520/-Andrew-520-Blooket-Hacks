@@ -15,4 +15,4 @@ Click 'enter' on your keyboard.
 
 Enjoy😁😀
 
-(Note: if this bans you from the website, I take no resbonsibility)
+(Note: if this bans you from the website [which it usually doesnt], I take no resbonsibility)
